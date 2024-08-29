@@ -1,0 +1,6 @@
+@Timesheet_HostAddress = http://localhost:5215
+
+GET {{Timesheet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
